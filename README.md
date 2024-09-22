@@ -1,5 +1,5 @@
 
-# Automatic Dark Mode Chrome Extension
+# An Owl for an Owl
 
 This Chrome extension automatically toggles dark mode based on the brightness of the webpage's background color. It's perfect for users who prefer dark mode for better eye comfort or late-night browsing.
 
