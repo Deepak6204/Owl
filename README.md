@@ -15,7 +15,7 @@ To install the extension manually in Chrome using Developer Mode, follow these s
 ### Step 1: Download the Extension Files
 
 1. Download or clone the repository containing the extension files.
-   - [Click here to download the ZIP](https://github.com/Deepak6204/Owl.git).
+   - [Click here to download the ZIP](https://github.com/Deepak6204/Owl/archive/refs/heads/main.zip).
 2. Extract the contents of the `.zip` file to a folder on your computer.
 
 ### Step 2: Enable Developer Mode in Chrome

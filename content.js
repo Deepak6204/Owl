@@ -1,3 +1,5 @@
+//Created by deepak yadav
+
 function isBrightColor(r, g, b) {
     const brightness = (r * 299 + g * 587 + b * 114) / 1000;
     console.log(`Brightness calculated: ${brightness}`);
